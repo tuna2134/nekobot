@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import style from './main.module.scss';
+import style from './styles/main.module.scss';
 
 interface ImageType {
   uri: string;

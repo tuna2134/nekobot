@@ -24,6 +24,7 @@
     "eslint": "^8.56.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "normalize.css": "^8.0.1",
     "sass": "^1.71.1",
     "typed-scss-modules": "^8.0.0",
     "typescript": "^5.2.2",
